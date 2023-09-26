@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * prints_to_98 - print numbers from n to 98
+ * prints_to_98 - prints numbers from n to 98
  * @n: number to start printing from
  * Return: always 0
  */
