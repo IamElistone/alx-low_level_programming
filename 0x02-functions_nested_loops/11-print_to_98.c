@@ -1,12 +1,10 @@
 #include "main.h"
 #include <stdio.h>
-
 /**
  * prints_to_98 - prints numbers from n to 98
- * @n: parameter number to start printing from
+ * @n: number to start printing from
  * Return: always 0
  */
-
 void print_to_98(int n)
 {
 	int i;
