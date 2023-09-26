@@ -5,6 +5,7 @@
  * @n: number to start printing from
  * Return: always 0
  */
+
 void print_to_98(int n)
 {
 	int i;
